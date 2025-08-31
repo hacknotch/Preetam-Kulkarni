@@ -1,10 +1,12 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hacknotch/hacknotch/main/banner.png" alt="Preetam Banner" width="90%"/>
-</p>
+<h1 align="center">
+  Hi there, I'm Preetam 👋
+</h1>
 
-<h1 align="center">Hi there, I'm Preetam 👋</h1>
-<h3 align="center">🚀 AI Enthusiast | Frontend Developer | Innovator | Hackathon Builder</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=🚀+AI+Enthusiast;💻+Frontend+Developer;⚡+Innovator;🏆+Hackathon+Builder" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -31,21 +33,17 @@
 ---
 
 ## 🚀 Tech Stack  
-
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 </p>
 
 <p align="center">
-  <!-- Frameworks & Tools -->
   <img src="https://skillicons.dev/icons?i=react,tailwind,docker,flutter,mysql,mongodb,git,linux,vscode" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hacknotch&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacknotch&theme=tokyonight&hide_border=true" height="160px"/>
@@ -78,7 +76,6 @@
 ---
 
 ## 🤝 Connect with Me  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/preetam-kulkarni-7748072a8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -93,4 +90,4 @@
 
 ---
 
-⭐ From [Preetam](https://github.com/hacknotch)
+⭐ From [Preetam](https://github.com/hacknotch)  

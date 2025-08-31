@@ -1,6 +1,10 @@
 # Hi there, I'm Preetam 👋  
 
 🚀 **AI Enthusiast | Frontend Developer | Innovator | Hackathon Builder**  
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacknotch&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Preetam-Kulkarni&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)  

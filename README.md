@@ -1,52 +1,73 @@
-# Hi there, I'm Preetam 👋  
-
-🚀 **AI Enthusiast | Frontend Developer | Innovator | Hackathon Builder**  
-## 📊 Contribution Graph
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacknotch&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+  <img src="https://raw.githubusercontent.com/hacknotch/hacknotch/main/banner.png" alt="Preetam Banner" width="90%"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Preetam-Kulkarni&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)  
+<h1 align="center">Hi there, I'm Preetam 👋</h1>
+<h3 align="center">🚀 AI Enthusiast | Frontend Developer | Innovator | Hackathon Builder</h3>
+
+---
+
+## 📊 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacknotch&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hacknotch&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>  
+  <img src="https://img.shields.io/github/followers/hacknotch?style=social" alt="Followers"/>  
+  <img src="https://img.shields.io/github/stars/hacknotch?style=social" alt="Stars"/>  
+</p>
 
 ---
 
 ## 💡 About Me  
-- 🎓 2nd-year **CSE student** at MVJ College of Engineering  
-- 🛠️ Building **AI-powered smart spectacles (Aaru)**  
-- ⚡ Passionate about **AI/ML, IoT, and Web Development**  
+- 🎓 3rd-year **CSE Student @ MVJ College of Engineering**  
+- 🛠️ Building **AI-powered Smart Spectacles (Aaru)**  
+- ⚡ Passionate about **AI/ML, IoT & Web Development**  
 - 🌱 Currently learning **React, Docker, DevOps & Flutter**  
-- 🏆 Participated in multiple **Hackathons & Research projects**  
+- 🏆 Active participant in **Hackathons & Research projects**  
 
 ---
 
 ## 🚀 Tech Stack  
-💻 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
 
-🛠️ **Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+</p>
+
+<p align="center">
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=react,tailwind,docker,flutter,mysql,mongodb,git,linux,vscode" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Preetam's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hacknotch&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacknotch&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacknotch&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects  
-🔹 [**Aaru Smart Spectacles**](https://github.com/YOUR_USERNAME/aaru) – AI-powered smart glasses for the future  
-🔹 [**Event Booking System**](https://github.com/YOUR_USERNAME/event_booking) – PHP + MySQL project for event management  
-🔹 [**AI Study Buddy**](https://github.com/YOUR_USERNAME/ai-study-buddy) – Offline AI assistant for students  
+- 🔹 [**Aaru Smart Spectacles**](https://github.com/hacknotch/aaru) – AI-powered smart glasses for the future  
+- 🔹 [**Event Booking System**](https://github.com/hacknotch/event_booking) – Full-stack event management system  
+- 🔹 [**AI Study Buddy**](https://github.com/hacknotch/ai-study-buddy) – Offline AI assistant for students  
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hacknotch/hacknotch/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
@@ -57,10 +78,19 @@
 ---
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetam-kulkarni-7748072a8/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YOUR_ID)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/preetam-kulkarni-7748072a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hacknotch">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/YOUR_ID">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐️ From [Preetam](https://github.com/YOUR_USERNAME)  
+⭐ From [Preetam](https://github.com/hacknotch)

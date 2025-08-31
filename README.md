@@ -3,10 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=🚀+AI+Enthusiast;💻+Frontend+Developer;⚡+Innovator;🏆+Hackathon+Builder" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+AI+Enthusiast;💻+Frontend+Developer;⚡+Innovator;🏆+Hackathon+Builder" alt="Typing SVG" />
 </p>
+
 
 ---
 

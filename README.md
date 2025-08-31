@@ -54,9 +54,15 @@
 ---
 
 ## 📌 Featured Projects  
-- 🔹 [**Aaru Smart Spectacles**](https://github.com/hacknotch/aaru) – AI-powered smart glasses for the future  
-- 🔹 [**Event Booking System**](https://github.com/hacknotch/event_booking) – Full-stack event management system  
-- 🔹 [**AI Study Buddy**](https://github.com/hacknotch/ai-study-buddy) – Offline AI assistant for students  
+  
+
+- 🔹 [**Book-Reader**](https://github.com/hacknotch/Book-Reeader) – A digital book reader app to improve reading accessibility.  
+- 🔹 [**Personal Portfolio**](https://github.com/hacknotch/PERSNOLPORTFOLIO) – A portfolio website showcasing projects and skills.  
+- 🔹 [**Deep Fake Detection**](https://github.com/hacknotch/deep_fake-detection) – AI-based project to detect deepfake media using ML models.  
+- 🔹 [**Ollama**](https://github.com/hacknotch/ollama) – Experimentation with AI/LLMs for local usage.  
+- 🔹 [**Sensitive Content Detector**](https://github.com/hacknotch/sensitive-content-detector) – Detects and filters inappropriate or harmful text content.  
+- 🔹 [**READER**](https://github.com/hacknotch/READER) – Another reading-focused project (details you can expand).  
+
 
 ---
 

@@ -2,7 +2,7 @@
 
 🚀 **AI Enthusiast | Frontend Developer | Innovator | Hackathon Builder**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=Preetam-Kulkarni&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)  
 

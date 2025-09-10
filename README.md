@@ -1,97 +1,417 @@
-<h1 align="center">
-  Hi there, I'm Preetam 👋
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+AI+Enthusiast;💻+Frontend+Developer;⚡+Innovator;🏆+Hackathon+Builder" alt="Typing SVG" />
-</p>
+# 🎨 Hi there, I'm Preetam 👋
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer;🚀+Tech+Enthusiast;🎯+Problem+Solver;🎨+UI%2FUX+Designer;⚡+Performance+Optimizer" alt="Typing SVG" />
 
-## 📊 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacknotch&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hacknotch&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>  
-  <img src="https://img.shields.io/github/followers/hacknotch?style=social" alt="Followers"/>  
-  <img src="https://img.shields.io/github/stars/hacknotch?style=social" alt="Stars"/>  
-</p>
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=hacknotch&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
+
+[![GitHub followers](https://img.shields.io/github/followers/hacknotch?style=for-the-badge&color=00D9FF&label=FOLLOWERS)](https://github.com/hacknotch)
+[![GitHub stars](https://img.shields.io/github/stars/hacknotch?style=for-the-badge&color=00D9FF&label=STARS)](https://github.com/hacknotch)
+
+</div>
 
 ---
 
-## 💡 About Me  
-- 🎓 3rd-year **CSE Student @ MVJ College of Engineering**  
-- 🛠️ Building **AI-powered Smart Spectacles (Aaru)**  
-- ⚡ Passionate about **AI/ML, IoT & Web Development**  
-- 🌱 Currently learning **React, Docker, DevOps & Flutter**  
-- 🏆 Active participant in **Hackathons & Research projects**  
+<div align="center">
+
+## 🌟 Welcome to my Digital Universe! 🌟
+
+*I'm a passionate frontend developer who transforms ideas into beautiful, responsive, and user-friendly web experiences that make the internet a better place!*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 
 ---
 
-## 🚀 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,docker,flutter,mysql,mongodb,git,linux,vscode" />
-</p>
+## 🛠️ My Tech Arsenal 🛠️
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+### 🎨 Frontend Technologies
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
+<br><b>TypeScript</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+<br><b>React</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60"/>
+<br><b>Vue.js</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="60" height="60"/>
+<br><b>Angular</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
+<br><b>Next.js</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+<br><b>HTML5</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+<br><b>CSS3</b>
+</td>
+</tr>
+</table>
+
+### 🎨 Styling & UI
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60"/>
+<br><b>SCSS</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>
+<br><b>Tailwind CSS</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
+<br><b>Bootstrap</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" height="60"/>
+<br><b>Material-UI</b>
+</td>
+</tr>
+</table>
+
+### ⚙️ Backend & Database
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+<br><b>Node.js</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+<br><b>Python</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
+<br><b>MongoDB</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+<br><b>PostgreSQL</b>
+</td>
+</tr>
+</table>
+
+### 🛠️ Development Tools
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+<br><b>Git</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+<br><b>GitHub</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
+<br><b>VS Code</b>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
+<br><b>Docker</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hacknotch&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacknotch&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacknotch&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
+## 🎯 What I Do 🎯
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="300">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80" height="80"/>
+<br><b>🔧 Frontend Development</b>
+<br><i>Building responsive and interactive web applications</i>
+</td>
+<td align="center" width="300">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="80" height="80"/>
+<br><b>🎨 UI/UX Implementation</b>
+<br><i>Converting designs into pixel-perfect interfaces</i>
+</td>
+<td align="center" width="300">
+<img src="https://media.giphy.com/media/3o7bTpcQfzAzznLSGk/giphy.gif" width="80" height="80"/>
+<br><b>⚡ Performance Optimization</b>
+<br><i>Ensuring fast and smooth user experiences</i>
+</td>
+</tr>
+<tr>
+<td align="center" width="300">
+<img src="https://media.giphy.com/media/3o7bTpcQfzAzznLSGk/giphy.gif" width="80" height="80"/>
+<br><b>🔄 API Integration</b>
+<br><i>Connecting frontend with backend services</i>
+</td>
+<td align="center" width="300">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="80" height="80"/>
+<br><b>📱 Responsive Design</b>
+<br><i>Creating mobile-first, cross-platform solutions</i>
+</td>
+<td align="center" width="300">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80" height="80"/>
+<br><b>🧪 Testing & Debugging</b>
+<br><i>Writing tests and fixing bugs for robust applications</i>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 
 ---
 
-## 📌 Featured Projects  
-  
+## 🚀 Current Focus
 
-- 🔹 [**Book-Reader**](https://github.com/hacknotch/Book-Reeader) – A digital book reader app to improve reading accessibility.  
-- 🔹 [**Personal Portfolio**](https://github.com/hacknotch/PERSNOLPORTFOLIO) – A portfolio website showcasing projects and skills.  
-- 🔹 [**Deep Fake Detection**](https://github.com/hacknotch/deep_fake-detection) – AI-based project to detect deepfake media using ML models.  
-- 🔹 [**Ollama**](https://github.com/hacknotch/ollama) – Experimentation with AI/LLMs for local usage.  
-- 🔹 [**Sensitive Content Detector**](https://github.com/hacknotch/sensitive-content-detector) – Detects and filters inappropriate or harmful text content.  
-- 🔹 [**READER**](https://github.com/hacknotch/READER) – Another reading-focused project (details you can expand).  
-
+- 🌐 **Modern Web Technologies**: Exploring the latest in web development
+- 🤖 **AI Integration**: Learning to integrate AI/ML features in web apps
+- 📊 **Data Visualization**: Creating interactive charts and dashboards
+- 🔐 **Security Best Practices**: Implementing secure coding practices
+- 🎯 **User Experience**: Focusing on creating intuitive and accessible interfaces
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hacknotch/hacknotch/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+<div align="center">
+
+## 📈 My GitHub Journey 📈
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hacknotch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀+My+GitHub+Stats" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacknotch&layout=compact&theme=tokyonight&hide_border=true&custom_title=💻+Most+Used+Languages" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hacknotch&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hacknotch&theme=tokyonight&hide_border=true&custom_title=📊+Contribution+Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=5BCDEC" alt="Contribution Graph" />
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 
 ---
 
-## 🎯 Fun Zone  
-- 🎮 Gamer | 🏏 Cricket Enthusiast | 🎥 Movie Buff  
-- ✨ Motto: *"Build to Learn, Learn to Build"*  
+## 🏆 Achievements
+
+- 🎓 **Education**: Computer Science/Engineering background
+- 💼 **Professional Experience**: Frontend development in various projects
+- 🏅 **Certifications**: [Add your relevant certifications]
+- 🎯 **Projects**: Built multiple web applications and contributed to open source
 
 ---
 
-## 🤝 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/preetam-kulkarni-7748072a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hacknotch">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/YOUR_ID">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+## 🌟 Featured Projects
+
+### 🎨 [Project Name 1]
+- **Description**: A modern web application built with React and TypeScript
+- **Tech Stack**: React, TypeScript, Tailwind CSS, Node.js
+- **Features**: [Key features of your project]
+- **Live Demo**: [Link to live demo]
+- **Repository**: [Link to GitHub repo]
+
+### 🚀 [Project Name 2]
+- **Description**: A responsive dashboard with real-time data visualization
+- **Tech Stack**: Vue.js, Chart.js, Express.js, MongoDB
+- **Features**: [Key features of your project]
+- **Live Demo**: [Link to live demo]
+- **Repository**: [Link to GitHub repo]
 
 ---
 
-⭐ From [Preetam](https://github.com/hacknotch)  
+## 📊 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hacknotch&theme=dark&hide_border=true&custom_title=Contribution%20Graph)
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect! 🤝
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+*I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology!*
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/preetam-kulkarni)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/hacknotch)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://preetamkulkarni.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:preetam@example.com)
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+### 💬 Let's Chat!
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" height="60" />
+
+*Feel free to reach out if you want to collaborate on something amazing!*
+
+</div>
+
+---
+
+## 💡 Fun Facts
+
+- 🎮 I love gaming and often draw inspiration from game UIs
+- ☕ Coffee is my fuel for coding marathons
+- 🌱 Always learning something new in the tech world
+- 🎵 Music helps me focus while coding
+- 🏃‍♂️ I believe in work-life balance and staying active
+
+---
+
+## 📝 Recent Blog Posts
+
+- [Building Responsive Web Applications in 2024](https://your-blog.com/post1)
+- [The Future of Frontend Development](https://your-blog.com/post2)
+- [Optimizing React Performance](https://your-blog.com/post3)
+
+---
+
+## 🎯 Goals for 2024
+
+- [ ] Master advanced React patterns and hooks
+- [ ] Learn WebAssembly for performance-critical applications
+- [ ] Contribute more to open-source projects
+- [ ] Build a full-stack application with modern tech stack
+- [ ] Write technical blog posts regularly
+- [ ] Mentor junior developers
+
+---
+
+## 💬 Quote
+
+> "The best way to predict the future is to create it." - Peter Drucker
+
+---
+
+## 🏷️ Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=hacknotch&style=flat-square&color=blue)
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+## 🎉 Thanks for Visiting! 🎉
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" height="100" />
+
+*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just have a chat!* 😊
+
+</div>
+
+<div align="center">
+
+### ⭐ Star some of my repositories if you find them interesting! ⭐
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" height="60" />
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+### 🚀 Keep Coding, Keep Creating! 🚀
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="80" height="80" />
+
+*Made with ❤️ by [Preetam Kulkarni](https://github.com/hacknotch)*
+
+</div>

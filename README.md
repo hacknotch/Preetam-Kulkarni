@@ -2,7 +2,7 @@
 
 # 🎨 Hi there, I'm Preetam 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer;🚀+Tech+Enthusiast;🎯+Problem+Solver;🎨+UI%2FUX+Designer;⚡+Performance+Optimizer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer;🚀+Tech+Enthusiast;🎯+Problem+Solver;🎨+UI%2FUX+Designer;⚡+Performance+Optimizer;🌐+Full+Stack+Developer;🎭+Creative+Coder" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -26,6 +26,61 @@
 *I'm a passionate frontend developer who transforms ideas into beautiful, responsive, and user-friendly web experiences that make the internet a better place!*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=hacknotch&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
+
+[![GitHub followers](https://img.shields.io/github/followers/hacknotch?style=for-the-badge&color=00D9FF&label=FOLLOWERS)](https://github.com/hacknotch)
+[![GitHub stars](https://img.shields.io/github/stars/hacknotch?style=for-the-badge&color=00D9FF&label=STARS)](https://github.com/hacknotch)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Welcome to my Digital Universe! 🌟
+
+*I'm a passionate frontend developer who transforms ideas into beautiful, responsive, and user-friendly web experiences that make the internet a better place!*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+## _**About Me**_
+
+```yaml
+name: Preetam Kulkarni
+located_in: India
+current_job: Frontend Developer & UI/UX Designer
+education: ["Computer Science", "Web Development"]
+status: Professional Developer
+
+fields_of_interests:
+  - "Frontend Development"
+  - "User Interface Design"
+  - "User Experience"
+  - "Web Performance"
+  - "Mobile Development"
+  
+technical_background:
+  - "React & Vue.js Development"
+  - "Responsive Web Design"
+  - "API Integration"
+  - "Performance Optimization"
+  - "Cross-Platform Development"
+
+currently_learning: ["Next.js", "TypeScript", "Web3", "AI Integration"]
+2025_goals: ["Build Amazing Products", "Contribute to Open Source", "Mentor Others"]
+hobbies: ["Coding", "Design", "Gaming", "Music"]
+```
 
 </div>
 
@@ -163,6 +218,35 @@
 
 <div align="center">
 
+## _**Development Breakdown**_
+
+```
+💻  I Spent My Time On
+
+JavaScript    █████████████████▓░░░   68.2%
+React         ████████▓░░░░░░░░░░░░   15.4%
+TypeScript    ██████▓░░░░░░░░░░░░░░   10.1%
+CSS/SCSS      ████▓░░░░░░░░░░░░░░░░    4.8%
+Node.js       ██▓░░░░░░░░░░░░░░░░░░    1.5%
+
+Editors:
+
+VS Code       ████████████████▓░░░░░   85%
+WebStorm      █████████▓░░░░░░░░░░░░   15%
+
+Frameworks:
+
+React         ████████████████▓░░░░░   70%
+Vue.js        █████████▓░░░░░░░░░░░░   20%
+Angular       ███▓░░░░░░░░░░░░░░░░░░   10%
+```
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🎯 What I Do 🎯
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -218,6 +302,30 @@
 
 ---
 
+<div align="center">
+
+## _**Current Mission**_
+
+```mermaid
+graph TD
+    A[🚀 Building Amazing Web Apps] --> B[🎨 UI/UX Design]
+    A --> C[⚡ Performance Optimization]
+    B --> D[🎯 User Experience]
+    C --> E[📱 Mobile First]
+    D --> F[🌟 Production Ready]
+    E --> F
+    F --> G[🎉 Impact Users]
+    
+    style A fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#fff
+    style G fill:#F8D866,stroke:#fff,stroke-width:2px,color:#000
+```
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🚀 Current Focus
 
 - 🌐 **Modern Web Technologies**: Exploring the latest in web development
@@ -255,6 +363,40 @@
 </div>
 
 ---
+
+<div align="center">
+
+## _**Featured Projects**_
+
+| **[E-Commerce Platform](https://github.com/hacknotch/ecommerce-platform)** | **[Portfolio Website](https://github.com/hacknotch/portfolio)** |
+|:---:|:---:|
+| **E-Commerce Platform** • Full Stack | **Portfolio Website** • Frontend |
+| Modern e-commerce solution with React & Node.js | Personal portfolio with stunning animations |
+| 🔧 **Key Features:** | 🔧 **Key Features:** |
+| • User authentication & authorization | • Responsive design |
+| • Product catalog & search | • Interactive animations |
+| • Shopping cart & checkout | • Contact form integration |
+| • Payment integration | • SEO optimized |
+| • Admin dashboard | • Performance optimized |
+| [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) |
+
+| **[Task Management App](https://github.com/hacknotch/task-manager)** | **[Weather Dashboard](https://github.com/hacknotch/weather-dashboard)** |
+|:---:|:---:|
+| **Task Management App** • Full Stack | **Weather Dashboard** • Frontend |
+| Collaborative task management with real-time updates | Beautiful weather app with location services |
+| 🔧 **Key Features:** | 🔧 **Key Features:** |
+| • Real-time collaboration | • Location-based weather |
+| • Drag & drop interface | • 7-day forecast |
+| • Team management | • Interactive maps |
+| • File attachments | • Dark/Light theme |
+| • Progress tracking | • PWA support |
+| [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🏆 Achievements
 
@@ -326,6 +468,18 @@
 
 ---
 
+<div align="center">
+
+## _**Profile Analytics**_
+
+![Profile Views](https://komarev.com/ghpvc/?username=hacknotch&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS) ![GitHub Followers](https://img.shields.io/github/followers/hacknotch?style=for-the-badge&color=00D9FF&label=FOLLOWERS) ![GitHub Stars](https://img.shields.io/github/stars/hacknotch?style=for-the-badge&color=00D9FF&label=STARS)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 💡 Fun Facts
 
 - 🎮 I love gaming and often draw inspiration from game UIs
@@ -355,9 +509,15 @@
 
 ---
 
+<div align="center">
+
 ## 💬 Quote
 
-> "The best way to predict the future is to create it." - Peter Drucker
+> **"Code is Poetry, Design is Art and I Am the Artist"**
+
+*Let's build the future together, one pixel at a time!*
+
+</div>
 
 ---
 

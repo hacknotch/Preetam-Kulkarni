@@ -13,9 +13,9 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://preetamkulkarni.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetam-kulkarni-7748072a8/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulkarnipreetam0@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preetam-kulkarni)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetam@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hacknotch)
 
 </div>
 
@@ -38,10 +38,10 @@ const preetam = {
     location: "India",
     passion: ["Web Development", "User Experience", "Problem Solving"],
     skills: {
-        frontend: ["React", "Vue.js", "Angular", "TypeScript", "JavaScript"],
-        styling: ["CSS3", "SCSS", "Tailwind CSS", "Material-UI", "Bootstrap"],
-        tools: ["VS Code", "Git", "Figma", "Adobe XD", "Webpack"],
-        backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL"]
+        frontend: ["React", "Vue.js", "TypeScript", "JavaScript"],
+        styling: ["CSS3", "Tailwind CSS"],
+        tools: ["VS Code", "Git", "Figma", "Adobe XD", "Webpack", "n8n"],
+        backend: ["Node.js", "Express.js", "MongoDB"]
     },
     currentlyLearning: ["Next.js", "Web3", "AI Integration", "Microservices"],
     funFact: "I turn coffee into code and ideas into reality! ☕ → 💻",
@@ -71,24 +71,18 @@ console.log("Welcome to my digital space! 🚀");
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
 ### Styling & UI
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 ### Backend & Database
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ### Tools & Others
 
@@ -97,6 +91,7 @@ console.log("Welcome to my digital space! 🚀");
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
 
 </div>
 
@@ -270,8 +265,8 @@ Weekend   ████████████▓░░░░░░░░░░�
 Languages:
 JavaScript    ████████████████████▓░░░   85%
 TypeScript    ████████████████▓░░░░░░░   70%
-CSS/SCSS      ████████████▓░░░░░░░░░░░   60%
-Python        ██████▓░░░░░░░░░░░░░░░░░   30%
+CSS           ████████████▓░░░░░░░░░░░   60%
+Node.js       ██████▓░░░░░░░░░░░░░░░░░   30%
 ```
 
 </div>

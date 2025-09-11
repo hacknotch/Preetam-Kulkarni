@@ -410,7 +410,6 @@ Node.js       ██████▓░░░░░░░░░░░░░░░
 
 *"Code is Poetry, Design is Art and I Am the Artist"*
 
-<<<<<<< HEAD
 </div>
 =======
 </div>
